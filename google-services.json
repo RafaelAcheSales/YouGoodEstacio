@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "330992158254",
+    "firebase_url": "https://you-good-f543d-default-rtdb.firebaseio.com",
+    "project_id": "you-good-f543d",
+    "storage_bucket": "you-good-f543d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330992158254:android:d71f4643fdb581734a81bf",
+        "android_client_info": {
+          "package_name": "com.rafaelsales.yougood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oGEOrkAvsMG3OSFZJB_b7UWEyfdbQE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
